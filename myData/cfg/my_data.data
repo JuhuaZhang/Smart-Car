@@ -1,0 +1,6 @@
+classes= 8
+train  = /home/zjh/darknet/myData/myData_train.txt
+valid  = /home/zjh/darknet/myData/myData_test.txt
+names = /home/zjh/darknet/myData/myData.names
+backup = /home/zjh/darknet/myData/weights
+

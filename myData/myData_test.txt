@@ -1,0 +1,11 @@
+/home/zjh/darknet/myData/img_voc/JPEGImages/000126.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000065.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000009.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000113.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000111.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000067.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000103.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000008.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000110.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000085.jpg
+/home/zjh/darknet/myData/img_voc/JPEGImages/000028.jpg
